@@ -95,5 +95,7 @@ printf("youer ans:- %d",f);
 
 // }
 
+printf("rushi");
+
     return 0;
 }
